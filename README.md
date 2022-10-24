@@ -1,5 +1,3 @@
-### Hi 👋, I'm Sihomara
-
 <!--
 **SihomaSa/SihomaSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,16 +11,16 @@ Here are some ideas to get you started:
 - 📫 Reach me at: sandy.ochoa.27@unsch.edu.pe
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🤝 I’m looking for help with [a small Spotify user analysis](https://github.com/dianilu/SpotifyUserAnalysis)
 -->
 <h1 align="center">Hi 👋, I'm Sihomara</h1>
 
 - 🌱 I’m currently learning **Javascript,React**
 
-- 🤝 I’m looking for help with [a small Spotify user analysis](https://github.com/dianilu/SpotifyUserAnalysis)
-
 - 📫 Reach me at: **sandy.ochoa.27@unsch.edu.pe**
 
-- 📄 Know about my experiences in [my CV:)](https://bit.ly/)
+- 📄 Know about my experiences in [my CV :)](https://bit.ly/](https://sihomasa.github.io/curriculumsihomara.github.io/)
 
 - ⚡ Fun fact **I thought I couldn't learn how to program, because I felt it was difficult at the beginning**
 
