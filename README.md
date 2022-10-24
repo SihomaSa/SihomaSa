@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Sihomara</h1>
 
-<center><div><img alt="Hi" src="https://i.imgur.com/rq1dA6p.gif"></div></center>
-
 - 🌱 I’m currently learning **Javascript,React**
 
 - 🤝 I’m looking for help with [a small Spotify user analysis](https://github.com/dianilu/SpotifyUserAnalysis)
 
 - 📫 Reach me at: **sandy.ochoa.27@unsch.edu.pe**
 
-- 📄 Know about my experiences in [my CV:)](https://bit.ly/aboutdianalucia)
+- 📄 Know about my experiences in [my CV:)](https://bit.ly/)
 
 - ⚡ Fun fact **I thought I couldn't learn how to program, because I felt it was difficult at the beginning**
 
