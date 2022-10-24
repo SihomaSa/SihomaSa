@@ -4,7 +4,7 @@
 **SihomaSa/SihomaSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Connect with me:
 ![image](https://user-images.githubusercontent.com/58354791/197521738-abb5457d-a9d0-4fc5-a352-a2be0ef6e4a8.png)
 
--->
+
