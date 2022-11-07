@@ -30,8 +30,8 @@ while(alive) {
 ```
 <p align="center">
      <a href="https://github.com/SihomaSa">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuosmx&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuosmx&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SihomaSa&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihomaSa&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages"/>
      </a>
 </p>
 
