@@ -19,3 +19,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/icons/file-icons/javascript.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+***"It's never too late to learn and have fun"***.
+```js
+while(alive) {
+     eat();
+     //sleep();
+     code();
+     repeat();
+} 😎
+```
+<p align="center">
+     <a href="https://github.com/SihomaSa">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuosmx&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuosmx&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages"/>
+     </a>
+</p>
+
