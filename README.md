@@ -51,7 +51,9 @@
 </p>
 
 ## 🏆 Logros
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SihomaSa&theme=onedark&no-frame=true&row=2&column=3)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SihomaSa&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ## 📫 Contacto
 - **Email:** sandy.ochoa.27@unsch.edu.pe  
